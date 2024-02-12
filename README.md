@@ -8,7 +8,7 @@ relies on 256 color terminal.
 
 Codeblock rendered in st:
 
-![screenshot.png](sreenshot.png)
+![sreenshot.png](screenshot.png)
 
 ## Installation
 
