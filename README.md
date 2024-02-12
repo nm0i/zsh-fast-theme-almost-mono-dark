@@ -1,4 +1,4 @@
-#Almost-mono-dark theme for F-Sy-H
+# Almost-mono-dark theme for F-Sy-H
 
 This is a minimal theme for
 [Fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting). It
