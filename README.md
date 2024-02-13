@@ -1,7 +1,7 @@
 # Almost-mono-dark theme for F-Sy-H
 
 This is a minimal theme for
-[Fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting). It
+[Fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting). It
 relies on 256 color terminal.
 
 ## Screenshot
